@@ -18,6 +18,7 @@
 		399456D516A7078C00F94718 /* Default-568h@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 399456D416A7078C00F94718 /* Default-568h@2x.png */; };
 		399456D816A7078C00F94718 /* MainStoryboard.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 399456D616A7078C00F94718 /* MainStoryboard.storyboard */; };
 		399456DB16A7078C00F94718 /* calculadoraViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 399456DA16A7078C00F94718 /* calculadoraViewController.m */; };
+		399456E316A70AEC00F94718 /* Calculadora.m in Sources */ = {isa = PBXBuildFile; fileRef = 399456E216A70AEC00F94718 /* Calculadora.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -37,6 +38,8 @@
 		399456D716A7078C00F94718 /* en */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = en; path = en.lproj/MainStoryboard.storyboard; sourceTree = "<group>"; };
 		399456D916A7078C00F94718 /* calculadoraViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = calculadoraViewController.h; sourceTree = "<group>"; };
 		399456DA16A7078C00F94718 /* calculadoraViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = calculadoraViewController.m; sourceTree = "<group>"; };
+		399456E116A70AEC00F94718 /* Calculadora.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Calculadora.h; sourceTree = "<group>"; };
+		399456E216A70AEC00F94718 /* Calculadora.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Calculadora.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -86,6 +89,8 @@
 				399456CD16A7078C00F94718 /* calculadoraAppDelegate.h */,
 				399456CE16A7078C00F94718 /* calculadoraAppDelegate.m */,
 				399456D616A7078C00F94718 /* MainStoryboard.storyboard */,
+				399456E116A70AEC00F94718 /* Calculadora.h */,
+				399456E216A70AEC00F94718 /* Calculadora.m */,
 				399456D916A7078C00F94718 /* calculadoraViewController.h */,
 				399456DA16A7078C00F94718 /* calculadoraViewController.m */,
 				399456C516A7078C00F94718 /* Supporting Files */,
@@ -177,6 +182,7 @@
 				399456CB16A7078C00F94718 /* main.m in Sources */,
 				399456CF16A7078C00F94718 /* calculadoraAppDelegate.m in Sources */,
 				399456DB16A7078C00F94718 /* calculadoraViewController.m in Sources */,
+				399456E316A70AEC00F94718 /* Calculadora.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
